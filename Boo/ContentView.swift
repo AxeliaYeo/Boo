@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "square.and.arrow.up.circle.fill")
                 .imageScale(.small)
                 .foregroundStyle(.tint)
-            Text("Hello, I'm Axelia!")
+            Text("Hello, I have children in my basement")
         }
         .padding()
     }
